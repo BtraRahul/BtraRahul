@@ -4,7 +4,7 @@
 ### Hi there! 👋<br><br>
 I'm Rahul Batra, a passionate MERN Stack Developer with a budding interest in Machine Learning. From crafting basic HTML/CSS/JS projects to diving into intricate React.js and TypeScript applications, I've traversed through various tech stacks on my coding journey. Recently, I've embarked on the exciting adventure of exploring the realms of Machine Learning.<br><br>
 ### 💻 Tech Stack:
-<br>- **Frontend:** HTML, CSS, JavaScript, TypeScript, React.js, Next.js<br>- **Backend:** Django, Node.js, Express.js<br>- **Database:** MongoDB, SQL, Firebase<br>- **Additional Skills:** Plotly, NiceGUI<br><br>
+<br>- **Frontend:** HTML, CSS, JavaScript, TypeScript, React.js, Next.js<br>- **Backend:** Django, Node.js, Express.js<br>- **Database:** MongoDB, SQL, Firebase<br><br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulbatra08/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/rahulbatra08/) 
