@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Batra</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=btrarahul&label=Profile%20views&color=0e75b6&style=flat" alt="btrarahul" /> </p>
-
 # 💫 About Me:
 ### Hi there! 👋<br><br>
 I'm Rahul Batra, a passionate MERN Stack Developer with a budding interest in Machine Learning. From crafting basic HTML/CSS/JS projects to diving into intricate React.js and TypeScript applications, I've traversed through various tech stacks on my coding journey. Recently, I've embarked on the exciting adventure of exploring the realms of Machine Learning.<br><br>
